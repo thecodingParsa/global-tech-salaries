@@ -1,7 +1,7 @@
 Job,Country,Avg Salary (USD),Min Salary (USD),Max Salary (USD),Source
 Software Developer,USA,83850,67080,100620,Glassory
 Cybersecurity Engineer,USA,99165,79332,118998,Glassory
-Data Analyst,USA,86009,68807,103210,Generated
+Data Analyst,USA,86009,68807,103210,Glassory
 Software Developer,Germany,68123,54498,81747,Glassory
 Cybersecurity Engineer,Germany,82470,65976,98964,Glassory
 Data Analyst,Germany,58432,46745,70118,Glassory
