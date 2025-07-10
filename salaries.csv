@@ -1,0 +1,16 @@
+Job,Country,Avg Salary (USD),Min Salary (USD),Max Salary (USD),Source
+Software Developer,USA,83850,67080,100620,Generated
+Cybersecurity Engineer,USA,99165,79332,118998,Generated
+Data Analyst,USA,86009,68807,103210,Generated
+Software Developer,Germany,68123,54498,81747,Generated
+Cybersecurity Engineer,Germany,82470,65976,98964,Generated
+Data Analyst,Germany,58432,46745,70118,Generated
+Software Developer,India,30909,24727,37090,Generated
+Cybersecurity Engineer,India,38961,31168,46753,Generated
+Data Analyst,India,25124,20099,30148,Generated
+Software Developer,Iran,20067,16053,24080,Generated
+Cybersecurity Engineer,Iran,26035,20828,31242,Generated
+Data Analyst,Iran,17568,14054,21081,Generated
+Software Developer,Japan,72403,57922,86883,Generated
+Cybersecurity Engineer,Japan,90296,72236,108355,Generated
+Data Analyst,Japan,67052,53641,80462,Generated
