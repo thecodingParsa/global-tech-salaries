@@ -2,11 +2,11 @@ import pandas as pd
 import numpy as np
 import os
 
-# لیست کشورها و حرفه‌ها
+
 countries = ["USA", "Germany", "India", "Iran", "Japan"]
 jobs = ["Software Developer", "Cybersecurity Engineer", "Data Analyst"]
 
-# ساخت داده‌های تصادفی
+
 data = []
 for country in countries:
     for job in jobs:
@@ -18,7 +18,7 @@ for country in countries:
             "Japan": 80000
         }.get(country, 50000)
         
-        # تغییرات تصادفی بر اساس حرفه
+      
         job_factor = {
             "Software Developer": 1.0,
             "Cybersecurity Engineer": 1.2,
@@ -38,7 +38,7 @@ for country in countries:
             "Source": "Generated"
         })
 
-# ذخیره در CSV
+
 os.makedirs("data", exist_ok=True)
 df = pd.DataFrame(data)
 df.to_csv("data/salaries.csv", index=False)
